@@ -1,0 +1,74 @@
+[
+{
+    "id":1,
+    "img":"src/images/thumbnails/thumbnail_1.webp",
+    "icons":"src/images/icons/icons_1.jpg",
+    "video_title":"Chill Music 24 hours 4K Ultra 60 FPS",
+    "video_author":"VISUALDONE",
+    "video_stats":"3.4 M views",
+    "upload":"6"
+},
+{
+    "id":2,
+    "img":"src/images/thumbnails/thumbnail_2.webp",
+    "icons":"src/images/icons/icons_2.jpg",
+    "video_title":"Study With Me! 24/7 Interval",
+    "video_author":"CHILLOUT",
+    "video_stats":" 1.2 M views",
+    "upload":"1"
+},
+{
+    "id":3,
+    "img":"src/images/thumbnails/thumbnail_3.webp",
+    "icons":"src/images/icons/icons_3.jpg",
+    "video_title":"Lofi - Chill Music",
+    "video_author":"Lofi",
+    "video_stats":"  9.3 M views",
+    "upload":"1"
+},
+{
+    "id":4,
+    "img":"src/images/thumbnails/thumbnail_4.webp",
+    "icons":"src/images/icons/icons_4.jpg",
+    "video_title":"Romantic Playlist l Read a book",
+    "video_author":"Books",
+    "video_stats":" 12 M views",
+    "upload":"5"
+},
+{
+    "id":5,
+    "img":"src/images/thumbnails/thumbnail_5.webp",
+    "icons":"src/images/icons/icons_6.jpg",
+    "video_title":"rain, books and coffee (playlist)",
+    "video_author":"Nobody",
+    "video_stats":" 935K views",
+    "upload":"8"
+},
+{
+    "id":6,
+    "img":"src/images/thumbnails/thumbnail_7.webp",
+    "icons":"src/images/icons/icons_7.jpg",
+    "video_title":"feel like a stoic philosopher who keeps calm in the midst of chaos..",
+    "video_author":"Nobody",
+    "video_stats":" 2 M views",
+    "upload":"5"
+},
+{
+    "id":7,
+    "img":"src/images/thumbnails/thumbnail_8.webp",
+    "icons":"src/images/icons/icons_8.jpg",
+    "video_title":"Ataturk - Father of the Turks Documentary",
+    "video_author":"The People Profiles",
+    "video_stats":"892K views",
+    "upload":"2"
+},
+{
+    "id":8,
+    "img":"src/images/thumbnails/thumbnail_9.webp",
+    "icons":"src/images/icons/icons_9.jpg",
+    "video_title":"Stoic Laws For Dark Times",
+    "video_author":"RedFrost Motivation",
+    "video_stats":"294K views",
+    "upload":"4"
+}
+]

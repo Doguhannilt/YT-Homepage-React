@@ -1,0 +1,171 @@
+.hamburger_menu{
+    width:25px;
+    margin-left: 5px;
+    margin-top:10px;
+    cursor: pointer;
+    
+}
+.left-bar{
+    display:flex;
+    align-items: center;
+ 
+}
+.youtube_png{
+    width:50px;
+    margin-left: 20px;
+    margin-top: 10px; 
+    cursor: pointer;
+}
+.youtube_icon{
+    width:100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.header{
+    height:90px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    border-width: 0.1px;
+    margin-bottom: 10px;
+    position: fixed;
+    top: 0px;
+    right:2px;
+    left:20px;
+    
+}
+
+
+.middle-bar{
+
+    display:flex;
+    align-items: center;
+    flex:1;
+    margin-left: 130px;
+    margin-right: 60px;
+    max-width: 1000px;
+}
+.search-bar{
+    width: 480px;
+    height: 40px;
+    border-radius: 12px;
+    border-color: rgb(255, 251, 251);
+    border-width: 0;
+    margin-left: 120px;
+    margin-top: 15px;
+    border-bottom: 1px;
+    transition: opacity 1s;
+    transition: box-shadow 3s;
+    
+}
+
+.search-bar:active{
+    opacity:0.5;
+}
+.search-bar:hover{
+    opacity:0.7;
+    box-shadow: 5px 5px 5px rgb(168, 166, 166); 
+  }
+
+.mic_icon{
+    width: 40px;
+    margin-top:13px;
+    cursor: pointer;
+    border-radius: 26px;
+    margin-left: 10px;
+    background-color:#f5f5f5;
+    
+}
+.mic_icon:hover{
+    opacity:0.7;
+    
+  }
+.right-bar{
+    width:300px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.create_icon{
+    width:50px;
+    height: 50px;
+    margin-left: 90px;
+    margin-right: 2px;
+    margin-top:10px;
+    cursor: pointer;
+}
+.create_icon:hover{
+    opacity:0.7;
+    
+  }
+
+.bell_icon{
+    width: 30px;
+    height: 30px;
+    padding-left: 10px;
+    padding-top:10px;
+    cursor: pointer;
+}
+.bell_icon:hover{
+    opacity:0.7;
+    
+  }
+.channel_profile{
+    width:37px;
+    height: 32px;
+    border-radius: 50%;
+    padding-left: 20px;
+    margin-top:20px;
+    cursor: pointer;
+}
+
+.channel_profile:hover{
+    opacity:0.7;
+    
+  }
+
+.profile-picture-settings{
+    border-radius: 100%;
+    height: 36px;
+    margin-left: 10px;
+    margin-top:13px;
+    cursor: pointer;
+  }
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+.dropdown-content {
+    position: absolute;
+    top: 110%; 
+    left: 10;
+    display: none;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 8px 8px 8px 8px rgba(0, 0, 0, 0.1);
+    z-index: 0;
+  }
+  
+.dropdown:hover .dropdown-content {
+    display:block;
+  }
+  
+.dropdown-item{
+    margin-top: 0px;
+    top:0px;
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+.dropdown-item:hover{
+    color:gray
+}
